@@ -1,0 +1,3 @@
+[submodule "libSDS011"]
+	path = libSDS011
+	url = git@github.com:ATM-HSW/libSDS011.git
